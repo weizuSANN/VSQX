@@ -1,0 +1,11 @@
+曲名		GIRIGIRI
+作曲者		ソナーポケット
+
+Vocal		IA
+
+作業環境
+
+DAW		Reaper
+VOCALOID	VOCALOID Editor 3
+パラメーター
+	ジェンダーファクター=36
